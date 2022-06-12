@@ -19,7 +19,7 @@
         "id": "4",
         "title": "Music Player",
         "link": "https://vignesh-mariappan.github.io/music-player/",
-        "description": "Music player application that is developed using HTML, CSS & JS will play songs. Audio added to control the audio.",
+        "description": "Music player application that is developed using HTML, CSS & JS will play songs. Audio controls added to control the audio.",
         "technologies": "HTML, CSS & JS",
         "imgSrc": "assets/images/music-player.png"
     },
