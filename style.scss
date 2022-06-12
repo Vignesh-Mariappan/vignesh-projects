@@ -48,6 +48,10 @@ body {
     margin-bottom: 3rem;
     background-color: whitesmoke;
 
+    &:hover {
+      transform: scale(1.05);
+    }
+
     @media screen and (max-width: 1320px) {
       //do Smth
       width: 45%;
@@ -87,7 +91,7 @@ body {
         }
 
         .card-tech-used {
-          color: rgb(32, 18, 59);
+          color: rgba(32, 18, 59, 0.5);
         }
       }
     }

@@ -57,6 +57,11 @@ body .title {
   background-color: whitesmoke;
 }
 
+.cards-container .card:hover {
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+}
+
 @media screen and (max-width: 1320px) {
   .cards-container .card {
     width: 45%;
@@ -105,7 +110,7 @@ body .title {
 }
 
 .cards-container .card .card-link .card-meta-info .card-tech-used {
-  color: #20123b;
+  color: rgba(32, 18, 59, 0.5);
 }
 
 .error-msg {
