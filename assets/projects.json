@@ -1,0 +1,74 @@
+[
+    {
+        "id": "2",
+        "title": "Monsters Rolodex",
+        "link": "https://vignesh-monster-rolodex-app.herokuapp.com/",
+        "description": "A react based web page will diplay monsters information in cards & search to filter monster based on names",
+        "technologies": "React",
+        "imgSrc": "assets/images/monsters-rolodex.png"
+    },
+    {
+        "id": "3",
+        "title": "A2Z Dental Care",
+        "link": "https://a2zdentalcare.net/",
+        "description": "A dental clinic website developed & hosted on net. User can call, send whatsapp message & fill a form from website.",
+        "technologies": "HTML, CSS, JS",
+        "imgSrc": "assets/images/a2z-dental-care.png"
+    },
+    {
+        "id": "4",
+        "title": "Music Player",
+        "link": "https://vignesh-mariappan.github.io/music-player/",
+        "description": "Music player application that is developed using HTML, CSS & JS will play songs. Audio added to control the audio.",
+        "technologies": "HTML, CSS & JS",
+        "imgSrc": "assets/images/music-player.png"
+    },
+    {
+        "id": "5",
+        "title": "Bookmark App",
+        "link": "https://vignesh-mariappan.github.io/bookmark-app/",
+        "description": "Bookmark app to save bookmarks. A form is used to add bookmarks & local storage to set & get the bookmarks.",
+        "technologies": "HTML, CSS, JS",
+        "imgSrc": "assets/images/bookmark-app.png"
+    },
+    {
+        "id": "6",
+        "title": "Joke Teller",
+        "link": "https://vignesh-mariappan.github.io/joke-teller/",
+        "description": "The Joke Teller app will display & tell technology jokes. Clicking on Tell me a joke button will tell us a new joke",
+        "technologies": "HTML, CSS, JS",
+        "imgSrc": "assets/images/joke-teller.png"
+    },
+    {
+        "id": "7",
+        "title": "Calculator",
+        "link": "https://vignesh-mariappan.github.io/calculator/",
+        "description": "The Calculator app will do the basic math calculations. It is developed using HTML, CS and JavaScript.",
+        "technologies": "HTML, CSS, JS",
+        "imgSrc": "assets/images/calculator.png"
+    },
+    {
+        "id": "8",
+        "title": "Infinite Scroll",
+        "link": "https://vignesh-mariappan.github.io/infinite-scroll/",
+        "description": "The Infinite Scroll app will infinitely load the images. It will lazy load the new images towards the end",
+        "technologies": "HTML, CSS, JS",
+        "imgSrc": "assets/images/infinite-scroll.png"
+    },
+    {
+        "id": "9",
+        "title": "Form Validator",
+        "link": "https://vignesh-mariappan.github.io/form-validator/",
+        "description": "Form Validator app will validate the form fields using JS. Success message will be shown if the form is validated.",
+        "technologies": "HTML, CSS, JS",
+        "imgSrc": "assets/images/form-validator.png"
+    },
+    {
+        "id": "1",
+        "title": "Tesla Clone",
+        "link": "https://mvs-tesla-clone.herokuapp.com",
+        "description": "A react based responsive webpage resembles actual Tesla site. Warning - High resolution images used!",
+        "technologies": "React",
+        "imgSrc": "assets/images/tesla-clone.png"
+    }
+]
