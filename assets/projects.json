@@ -65,10 +65,10 @@
     },
     {
         "id": "1",
-        "title": "Tesla Clone",
-        "link": "https://mvs-tesla-clone.herokuapp.com",
-        "description": "A react based responsive webpage resembles actual Tesla site. Warning - High resolution images used!",
-        "technologies": "React",
-        "imgSrc": "assets/images/tesla-clone.png"
+        "title": "Instagram Logo",
+        "link": "https://vignesh-mariappan.github.io/instagram-logo",
+        "description": "This is a small CSS drawing. Instagram logo is drawn completely using HTML and SCSS.",
+        "technologies": "HTML & SCSS",
+        "imgSrc": "assets/images/instagram-logo.png"
     }
 ]
