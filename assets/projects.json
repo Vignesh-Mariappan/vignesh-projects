@@ -8,6 +8,14 @@
         "imgSrc": "assets/images/monsters-rolodex.png"
     },
     {
+        "id": "10",
+        "title": "Feedback UI React App",
+        "link": "https://candid-fudge-eccb25.netlify.app/",
+        "description": "App built using React fundamentals like Components, JSX, Props, State, Handling events, Forms, List & Keys, Hooks",
+        "technologies": "React",
+        "imgSrc": "assets/images/feedback-ui-app.jpg"
+    },
+    {
         "id": "3",
         "title": "A2Z Dental Care",
         "link": "https://a2zdentalcare.net/",

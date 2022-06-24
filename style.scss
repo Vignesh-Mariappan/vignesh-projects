@@ -24,7 +24,7 @@ body {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-align: center;
-    padding: 0 0 2rem 0 ;
+    padding: 0 0 2rem 0;
 
     @media screen and (max-width: 715px) {
       //do Smth
@@ -53,13 +53,15 @@ body {
     }
 
     @media screen and (max-width: 1320px) {
-      //do Smth
       width: 45%;
     }
 
     @media screen and (max-width: 715px) {
-      //do Smth
       width: 90%;
+    }
+
+    @media screen and (max-width: 600px) {
+      width: 100%;
     }
 
     .card-link {

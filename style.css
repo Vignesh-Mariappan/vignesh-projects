@@ -74,6 +74,12 @@ body .title {
   }
 }
 
+@media screen and (max-width: 600px) {
+  .cards-container .card {
+    width: 100%;
+  }
+}
+
 .cards-container .card .card-link {
   cursor: pointer;
   text-decoration: none;
