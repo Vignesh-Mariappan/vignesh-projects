@@ -10,7 +10,7 @@
     {
         "id": "10",
         "title": "Feedback UI React App",
-        "link": "https://candid-fudge-eccb25.netlify.app/",
+        "link": "https://62b60fcd535aee005c8764d2--candid-fudge-eccb25.netlify.app",
         "description": "App built using React fundamentals like Components, JSX, Props, State, Handling events, Forms, List & Keys, Hooks",
         "technologies": "React",
         "imgSrc": "assets/images/feedback-ui-app.jpg"
