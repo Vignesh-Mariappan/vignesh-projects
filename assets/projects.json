@@ -1,11 +1,12 @@
 [
+    
     {
-        "id": "2",
-        "title": "Monsters Rolodex",
-        "link": "https://vignesh-monster-rolodex-app.herokuapp.com/",
-        "description": "A react based web page will diplay monsters information in cards & search to filter monster based on names",
-        "technologies": "React",
-        "imgSrc": "assets/images/monsters-rolodex.png"
+        "id": "11",
+        "title": "Github Finder React App",
+        "link": "https://github-user-finder-git-main-vignesh-mariappan.vercel.app/",
+        "description": "A front end application powered by React & Tailwind CSS to search GitHub profiles and visit their profile details",
+        "technologies": "React Tailwind CSS",
+        "imgSrc": "assets/images/github-finder.jpg"
     },
     {
         "id": "10",
@@ -22,6 +23,22 @@
         "description": "A dental clinic website developed & hosted on net. User can call, send whatsapp message & fill a form from website.",
         "technologies": "HTML, CSS, JS",
         "imgSrc": "assets/images/a2z-dental-care.png"
+    },
+    {
+        "id": "2",
+        "title": "Monsters Rolodex",
+        "link": "https://vignesh-monster-rolodex-app.herokuapp.com/",
+        "description": "A react based web page will diplay monsters information in cards & search to filter monster based on names",
+        "technologies": "React",
+        "imgSrc": "assets/images/monsters-rolodex.png"
+    },
+    {
+        "id": "12",
+        "title": "MV's Dictionary",
+        "link": "https://mvs-dictionary.vercel.app",
+        "description": "Based on the user input, this react app will search for meanings and display and audio is also added",
+        "technologies": "React",
+        "imgSrc": "assets/images/mvs-dictionary.jpg"
     },
     {
         "id": "4",
