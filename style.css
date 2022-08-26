@@ -52,6 +52,7 @@ body .title {
           align-items: center;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
+  margin: 0 auto;
 }
 
 .cards-container .card {
