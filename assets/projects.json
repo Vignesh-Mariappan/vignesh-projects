@@ -111,5 +111,13 @@
         "description": "This is a small CSS drawing. Instagram logo is drawn completely using HTML and SCSS.",
         "technologies": "HTML & SCSS",
         "imgSrc": "assets/images/instagram-logo.png"
+    },
+    {
+        "id": "15",
+        "title": "Local Weather App",
+        "link": "https://localweatherapp.vigneshmv.repl.co/",
+        "description": "Local Weather Application built with React to display the weather in the user's location",
+        "technologies": "HTML5 Geolocation & React",
+        "imgSrc": "assets/images/local-weather-app.png"
     }
 ]
